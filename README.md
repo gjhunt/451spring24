@@ -9,7 +9,7 @@
 ## lecture notes and videos
 
 No. | date | topics | reading | suggested problems (SP) | notes |  quiz problem (QP) | 
---- | --- | --- | --- | --- | --- | --- | --- | 
+--- | --- | --- | --- | --- | --- | --- |
 1|R 1-25 | basic set notation |  1.3 | **SP1:**  ch1: 63, 64, 69, 70, 73 | [sec1](lns/lec1_1.pdf), [sec2](lns/lec1_2.pdf)|  [QP 1](qp/qp1.pdf) due Feb 1 | 
 2|T 1-30 | axiomatic probability |  2.1, 2.2 (to Defn. 2.6) | --- | [sec1](lns/lec2_1.pdf), [sec2](lns/lec2_2.pdf)|  --- | 
 3|R 2-1 | basic theorems |  2.2 (all) | **SP2:**  ch2: 2-7, 9-11, 13 | [sec1](lns/lec3_1.pdf), [sec2](lns/lec3_2.pdf)|  [QP 2](qp/qp2.pdf) due Feb 8 | 
