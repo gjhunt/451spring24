@@ -33,9 +33,9 @@ Weds 2:30-3:30 PM
 | purpose | date/time |
 | - | - |
 | last day to add/drop | Friday Feb. 2nd |
-| midterm 1 | ???  |
+| midterm 1 | Feb. 27th  |
 | last day to withdraw | Monday March 25th |
-| midterm 2 | ??? |
+| midterm 2 | April 2nd |
 | final | 7-10 PM Wednesday May 8th |
 
 ## Website
