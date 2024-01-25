@@ -109,6 +109,11 @@ and integrity.” Please remind yourself of your responsibilities by reading the
 Handbook [www.wm.wdu/studenthandbook](www.wm.wdu/studenthandbook) and our Honor Code
 [(www.wm.edu/honor)](www.wm.edu/honor).
 
+### Class Recordings. 
+
+Meetings of this course might/will be recorded. Recordings will be available only to students registered for this class. This is intended to supplement the classroom experience. Students are expected to follow appropriate university policies and maintain the security of passwords used to access recorded lectures. Recordings may not be reproduced, shared with those not in the class, or uploaded to other online environments; violations may be subject to disciplinary action. If the instructor or a William &amp; Mary office plans any other uses for the recordings, beyond this class, students identifiable in the
+recordings will be notified to request consent prior to such use.
+
 ### Grading Scale
 Letter grades are assigned using the following table:
 
