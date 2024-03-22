@@ -22,7 +22,7 @@ No. | date | topics | reading | suggested problems (SP) | notes |  quiz problem 
 . |T 2-27 | **midterm 1 (lectures 1-6)**  |
 10|R 2-29 | expectation |  3.4 (to Thrm. 3.5)| **SP6:**  ch3: 18, 19, 25, 28, 48, 78a,b, 133a | [sec1](lns/lec10_1.pdf), [sec2](lns/lec10_2.pdf)|  [QP 6](qp/qp6.pdf) due Mar 7 | 
 11|T 3-5 | variance and moments |  3.4 (all) | --- | [sec1](lns/lec11_1.pdf), [sec2](lns/lec11_2.pdf)| --- | 
-12|R 3-7 | mgfs and common distributions 1 |  4.1, 4.2, 5.1, 5.2, 5.4, | **SP7:**  ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117, 54, 67, 71, 81, 104, 134, 135| [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [vid2]()| [QP7](qp/qp7.pdf) due Mar 21 | 
+12|R 3-7 | mgfs and common distributions 1 |  4.1, 4.2, 5.1, 5.2, 5.4, | **SP7:**  ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117, 54, 67, 71, 81, 104, 134, 135| [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [QP7](qp/qp7.pdf) due Mar 21 | 
 .|T  3-12 | **spring break** |
 .|R  3-14 | **spring break** |
 13|T 3-19 | more common distributions |  4.3, 4.5, 5.3 | --- | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| --- | 
